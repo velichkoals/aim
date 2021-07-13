@@ -1,4 +1,4 @@
-Aim mini-game: https://velichkoals.github.io/aim/
+  Aim mini-game: https://velichkoals.github.io/aim/
 
 
 💭 Description: 
