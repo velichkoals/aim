@@ -4,10 +4,7 @@
 <h3>💭 Description:</b></h3> 
 
 
-- мини-игра на меткость
-- I used such technologies in the project:  `JS` и `CSS`
-- parallax effect при движении мышью 
-- адаптивный макет под смартфоны📱✅
-
-- I used such technologies in the project:JS,HTML,CSS
-- Only for PC 🖥 ✅
+- Aim mini-game 🎯
+- I used such technologies in the project: `JS,HTML,CSS`
+- Parallax effect 
+- Responsive layout for smartphone📱 and PC 🖥✅
