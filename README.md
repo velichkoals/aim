@@ -5,6 +5,9 @@
 
 
 - мини-игра на меткость
-- в проекте применял  `JS` и `CSS`
+- I used such technologies in the project:  `JS` и `CSS`
 - parallax effect при движении мышью 
 - адаптивный макет под смартфоны📱✅
+
+- I used such technologies in the project:JS,HTML,CSS
+- Only for PC 🖥 ✅
